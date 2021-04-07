@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VishnuDutta
 - 👀 I’m interested in ... Everything new
 - 🌱 I’m currently learning ... Web development
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... my emailid is vishnudutta.109@gmail.com
 
 <!---
